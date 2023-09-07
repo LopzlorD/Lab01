@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Presentacion personal</title>
+</head>
+<body>
+    <h2>MI PRESENTACION PERSONAL </h2>
+    <body>
+        <img src="Foto personal.jpg" alt="Foto personal" width="200px"/>
+    </body>
+    <body>
+        <p>Mi nombre es Rafael Elías Lopez Rocca, tengo 19 años y actualmente vivo en la ciudad de Arequipa.</p>
+    </body>
+    <body>
+        <h4>SOBRE MI: </h4>
+        <p>Algo que me apasiona es el autodesarrollo y la suepracion personal consigo mismo, poniendome
+        <br/>desafios a mi mismo y pues asi aprender más cosas nuevas que me ayudaran en lo largo de mi vida, 
+        <br/>tambien me apasiona aprender más de software y de la tecnología, ya que desde pequeño siempre
+        <br/>tuve curiosidad de esta. Uno de mis hobbies es jugar futbol, editar y/o ver videos y tambien me
+        <br/>gusta videojuegos de estrategia y de shooter. Me gusta comidas de sabor dulce, un poco salado;
+        <br/>al igual que bebidas de sabor cítricos y un poco dulce, entre otras cosas más.</p>
+    </body>
+    <body>
+        <h4>TECNOLOGÍAS Y LENGUAJES DE PROGRACIÓN </h4>
+        <table border="3">
+            <tr>
+                <td>PYTHON</td>
+                <td><img src="Python.png" alt="Python" width="90px"/></td>
+            </tr>
+            <tr>
+                <td>JAVA</td>
+                <td><img src="Java.png" alt="Java" width="100px"/></td>
+            </tr>
+        </table>
+    </body>
+    <body>
+        <h4>FORMACION PROFESIONAL: </h4>
+    </body>
+    <body>
+        <p>Actualmente ando estudiando la carrera de Diseño y Desarrollo de software en el instituto de educación
+        <br/>superior TECSUP.</p>
+    </body>
+    <body>
+        <h4>IDIOMAS: </h4>
+    </body>
+    <body>
+        <p>El idioma que domino actualmente es el español, pero ando preparandome para dominar el
+        <br/>ingles. </p>
+    </body>
+</body>
+</html>
